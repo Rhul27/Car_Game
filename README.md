@@ -8,10 +8,16 @@ Open CMD and install all need full
 
 step 1:
    pip install pygame
+
+   
 step 2:
    pygame==2.5.0  # or the latest version available when you run the game
+
+
 step 3:
    pip install -r requirements.txt
+
+
 step 4:
    python index.py
 
